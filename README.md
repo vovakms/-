@@ -15,10 +15,10 @@
 
 Открываем файл 1_Создать ПИСЬМА.xlsm
 
-![Image Alt](1.png) 
+ ![Image Alt](1.png)
 
-нажимаем кнопку
-![Image Alt](2.png) 
+ нажимаем кнопку
+ ![Image Alt](2.png) 
 
 затем
 ![Image Alt](3.png) 
