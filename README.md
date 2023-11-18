@@ -18,6 +18,7 @@
  ![Image Alt](1.png)
 
  нажимаем кнопку
+ #
  ![Image Alt](2.png) 
 
 затем
